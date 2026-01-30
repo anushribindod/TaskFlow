@@ -39,26 +39,27 @@ drag-and-drop reordering, priority tagging, and dark mode with data persistence.
 - LocalStorage-based data saving
 
 ## Screenshots
+
 ### Dashboard – Light Mode
-![Dashboard Light](src/images/DashboardLight.png)
+![Dashboard Light](/src/images/DashboardLight.png)
 
 ### Dashboard – Dark Mode
-![Dashboard Dark](src/images/DashboardDark.png)
+![Dashboard Dark](/src/images/DashboardDark.png)
 
 ### Add Task Modal
-![Add Task](src/images/AddTask.png)
+![Add Task](/src/images/AddTask.png)
 
 ### Edit Task Modal
-![Edit Task](src/images/EditTask.png)
+![Edit Task](/src/images/EditTask.png)
 
 ### Pending Tasks View
-![Pending Tasks](src/images/PendingTask.png)
+![Pending Tasks](/src/images/PendingTask.png)
 
 ### Completed Tasks View
-![Completed Tasks](src/images/CompletedTask.png)
+![Completed Tasks](/src/images/CompletedTask.png)
 
 ### Search Functionality
-![Search Tasks](src/images/Search.png)
+![Search Tasks](/src/images/Search.png)
 
 ### Delete Confirmation Popup
-![Delete Confirmation](src/images/DeleteConfirmationPopup.png)
+![Delete Confirmation](/src/images/DeleteConfirmationPopup.png)
