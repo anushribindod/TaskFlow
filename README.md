@@ -65,4 +65,7 @@ drag-and-drop reordering, priority tagging, and dark mode with data persistence.
 ![Delete Confirmation](/src/images/DeleteConfirmationPopup.png)
 
 ## Live Demo
-🔗 https://task-flow-qtd7h2y8r-anushris-projects-d8f082b7.vercel.app
+🔗 https://task-flow-two-alpha.vercel.app
+
+## Video Demo
+🎥 https://www.loom.com/share/ccdb19868e504b0bb00c7d71294af57c
